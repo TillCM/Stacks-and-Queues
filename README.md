@@ -33,3 +33,7 @@ Stack and Queue data structures coded up from scratch
                 nodeCount++;
                 
             }
+
+
+
+![Stack](/stacks.JPG)
