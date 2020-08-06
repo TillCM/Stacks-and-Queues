@@ -3,7 +3,7 @@ Stack and Queue data structures coded up from scratch
 # 1. Pushing to a Stack:
  
 
-  public class CStack
+    public class CStack
     {
         CustomNode top;
         CustomNode tail;
