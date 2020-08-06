@@ -39,5 +39,6 @@ Well.. most people don't.
             }
 
 
-
+# Video Explanation
+[![Everything Is AWESOME](https://img.youtube.com/vi/AWNW9kftVkw/0.jpg)](https://https://youtube/AWNW9kftVkw "Introduction to Stacks")
 
