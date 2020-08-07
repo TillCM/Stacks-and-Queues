@@ -38,6 +38,7 @@ namespace BasicLinkedList.Stack
                 }
 
                 current.Next = customNode;
+                top = customNode;
                 nodeCount++;
                 
             }
