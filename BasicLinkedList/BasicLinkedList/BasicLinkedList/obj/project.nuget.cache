@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/TdhFea4Ndds/9xMlQx0sBdLP5mV+9FvNx8tFj+iXqhCzaBE/JtIlbQwQKrSZhUR+cxdvswFtuLrbqVkZ8F8sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ctill\\Documents\\GuruProjects\\Stacks and Queues\\Queues\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList\\BasicLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
+    "C:\\Users\\ctill\\.nuget\\packages\\microsoft.winui\\3.0.0-preview2.200713.0\\microsoft.winui.3.0.0-preview2.200713.0.nupkg.sha512"
+  ],
+  "logs": []
+}
