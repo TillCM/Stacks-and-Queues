@@ -31,21 +31,21 @@
     <AppXManifest Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList %28Package%29\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-08-07T08:35:05.561</Modified>
+      <Modified>2020-08-07T14:13:33.381</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\App.xbf">
       <PackagePath>BasicLinkedList\App.xbf</PackagePath>
-      <Modified>2020-08-07T08:34:54.379</Modified>
+      <Modified>2020-08-07T14:13:27.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\GameEntryUI.xbf">
       <PackagePath>BasicLinkedList\GameEntryUI.xbf</PackagePath>
-      <Modified>2020-08-07T08:34:54.380</Modified>
+      <Modified>2020-08-07T14:13:27.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList\MainWindow.xbf">
       <PackagePath>BasicLinkedList\MainWindow.xbf</PackagePath>
-      <Modified>2020-08-07T08:34:54.381</Modified>
+      <Modified>2020-08-07T14:13:27.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList %28Package%29\Images\ElveKing.jpg">
       <PackagePath>Images\ElveKing.jpg</PackagePath>
@@ -107,11 +107,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.exe">
       <PackagePath>BasicLinkedList\BasicLinkedList.exe</PackagePath>
-      <Modified>2020-08-07T08:34:54.820</Modified>
+      <Modified>2020-08-07T14:13:27.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\obj\x86\Debug\net5.0\win-x86\BasicLinkedList.dll">
       <PackagePath>BasicLinkedList\BasicLinkedList.dll</PackagePath>
-      <Modified>2020-08-07T08:34:54.791</Modified>
+      <Modified>2020-08-07T14:13:27.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList\bin\x86\Debug\net5.0\win-x86\BasicLinkedList.runtimeconfig.json">
       <PackagePath>BasicLinkedList\BasicLinkedList.runtimeconfig.json</PackagePath>

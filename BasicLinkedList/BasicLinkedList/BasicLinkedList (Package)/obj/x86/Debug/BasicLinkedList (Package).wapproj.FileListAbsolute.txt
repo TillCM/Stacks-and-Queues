@@ -857,7 +857,6 @@ C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\B
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\BasicLinkedList (Package).wapprojAssemblyReference.cache
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\BasicLinkedList (Package).wapproj.CoreCompileInputs.cache
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\BasicLinkedList.pri.xml
-C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\j1sfmdi2.cbb\Microsoft.UI.Xaml.Controls.pri.xml
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\priconfig.xml
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\priconfig.xml.intermediate
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\unfiltered.layout.resfiles
@@ -876,3 +875,4 @@ C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\B
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\Microsoft.UI.Xaml.Controls.pri.xml
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\BasicLinkedList (Package).wapproj.LastBuild.txt
+C:\Users\ctill\Documents\GuruProjects\Stacks and Queues\Stacks\BasicLinkedList\BasicLinkedList\BasicLinkedList (Package)\obj\x86\Debug\t15rs3jz.wdn\Microsoft.UI.Xaml.Controls.pri.xml

@@ -32,6 +32,7 @@ namespace BasicLinkedList
             lifeStack.Push(3);
             lifeStack.Push(2);
             lifeStack.Push(1);
+          int popped =  lifeStack.Pop();
             int check = lifeStack.Peek();
             
         }

@@ -21,27 +21,10 @@ namespace BasicLinkedList.Stack
         public void Push (int idata)
         {
             CustomNode customNode = new CustomNode(idata);
+            customNode.Next = top;
+            top = customNode;
 
-            if (top == null)
-            {
-                top = customNode;
-                top.Next = null;
-                nodeCount++;
-            }
-            else
-            {
-                current = top;
-
-                while (current.Next != null)
-                {
-                    current = current.Next;
-                }
-
-                current.Next = customNode;
-                top = customNode;
-                nodeCount++;
-                
-            }
+            
 
         
         }
